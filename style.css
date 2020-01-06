@@ -119,8 +119,9 @@ span{
 
 footer{
   font-family: cursive;
-  position: fixed;
-  right: 40%;
+  position: relative;
   bottom: 0;
-  padding: 12px 16px 12px 16px;
+  height: 3em;
+  left: 35%;
+  width:100%; 
 }
